@@ -4,7 +4,7 @@ This contains a sample of one of the PCBs, the lifting mechanism portion, utiliz
 
 ### Lifting mechanism PCB:
 
-<img src="Pictures/2013_Senior_Design_Project.png" width="300">
+<img src="Pictures/Lifting_Mechanism_PCB.png" width="300">
 
 ### Side view of finished project:
 
